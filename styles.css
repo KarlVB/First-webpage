@@ -55,3 +55,8 @@ article p {
 article h6 {
   opacity: 0.4;
 }
+
+article a {
+  color: inherit;
+  text-decoration: none;
+}
